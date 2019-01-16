@@ -5,7 +5,7 @@ import Resume from './resume';
 import Projects from './projects';
 const Main = () => (
     <Switch>
-        <Route exact path = "/" component = {Landing} />
+        <Route exact path = "/react-resume" component = {Landing} />
         <Route exact path = "/resume" component = {Resume} />
         <Route exact path = "/projects" component = {Projects} />
 
