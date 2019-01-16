@@ -58,7 +58,23 @@
   padding: 8px;
 }
 
+.projects-grid {
+  display: flex;
+}
+
 .avatar-img{
   height: 250px;
   padding: 5em;
+}
+
+.resume-img{     
+    width:80%; /*image width */
+    padding: 5em;
+    
+}
+.document{
+display: flex;
+justify-content: center;
+align-items: center;
+  
 }

@@ -1,9 +1,19 @@
 import React, {Component} from 'react';
+import image from '../assets/resume.jpg';
+
 
 class Resume extends Component{
     render(){
         return(
-            <div><h1>Resume page</h1></div>
+            <div className = "document">
+                <img 
+                            src={image} 
+                            alt = "resume"
+                            className = "resume-img"
+                            />
+                           
+
+             </div>
         );
     }
 
