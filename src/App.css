@@ -13,7 +13,7 @@
   background: -webkit-linear-gradient(to bottom, #00CDAC, #02AAB0);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to bottom, #00CDAC, #02AAB0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   text-align: center;
-  position: fixed;
+  position: relative;
   top: 0;
   left: 0;
   width: 100%;
@@ -78,3 +78,16 @@ justify-content: center;
 align-items: center;
   
 }
+
+@media only screen and (max-width: 600px) {
+  .avatar-img{
+    height: 250px;
+    padding: 2.5em;
+  }
+
+  .banner-text h1 {  
+    font-weight: bold;
+    color: black;
+    font-size: 40px;
+  }
+} 
