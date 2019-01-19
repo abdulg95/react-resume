@@ -1,22 +1,22 @@
 self.__precacheManifest = [
   {
-    "revision": "9f0dee4cd9e007700cfea2d29a910871",
-    "url": "/react-resume/static/media/resume.9f0dee4c.jpg"
+    "revision": "9486410ba20b25fc043d6f8be1cd4be3",
+    "url": "/react-resume/static/media/resume.9486410b.jpg"
   },
   {
     "revision": "4e131b120f03d213490a",
     "url": "/react-resume/static/js/runtime~main.4e131b12.js"
   },
   {
-    "revision": "0a2498711d2d34678f18",
-    "url": "/react-resume/static/js/main.0a249871.chunk.js"
+    "revision": "9dfe75b1a0e57d990926",
+    "url": "/react-resume/static/js/main.9dfe75b1.chunk.js"
   },
   {
     "revision": "45a4b776ca085930f677",
     "url": "/react-resume/static/js/1.45a4b776.chunk.js"
   },
   {
-    "revision": "0a2498711d2d34678f18",
+    "revision": "9dfe75b1a0e57d990926",
     "url": "/react-resume/static/css/main.0d3e294f.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-resume/static/css/1.6d89be46.chunk.css"
   },
   {
-    "revision": "f79e935e46a8e2e7e1b526eeeec90091",
+    "revision": "96bc04d551f0621cce1784cb3dc1aafd",
     "url": "/react-resume/index.html"
   }
 ];
